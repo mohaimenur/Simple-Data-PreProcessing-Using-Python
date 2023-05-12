@@ -2,4 +2,4 @@
 
 Language: Python
 
-IDE: Spyder (Anaconda
+IDE: Spyder (Anaconda)
